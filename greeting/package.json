@@ -1,0 +1,11 @@
+{
+  "name": "greeting",
+  "version": "1.0.0",
+  "description": "greeting moduele for npm module tutorial ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subhash Kumar <agarwal1994@live.in>",
+  "license": "ISC"
+}
